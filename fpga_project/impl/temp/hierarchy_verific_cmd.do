@@ -1,0 +1,7 @@
+-f C:/Code/FPGA_comptaiton/fpga_project/src/checksum.v
+-f C:/Code/FPGA_comptaiton/fpga_project/src/crc32_d4.v
+-f C:/Code/FPGA_comptaiton/fpga_project/src/eth_send.v
+-f C:/Code/FPGA_comptaiton/fpga_project/src/triple_speed_ethernet_mac/triple_speed_ethernet_mac.v
+-f C:/Code/FPGA_comptaiton/fpga_project/src/my_eth.v
+-l 2
+-o C:/Code/FPGA_comptaiton/fpga_project/impl/temp/hierarchy_verific_parser.result

@@ -1,0 +1,28 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Code\FPGA_comptaiton\fpga_project\src\checksum.v'
+Analyzing Verilog file 'C:\Code\FPGA_comptaiton\fpga_project\src\crc32_d4.v'
+Analyzing Verilog file 'C:\Code\FPGA_comptaiton\fpga_project\src\eth_send.v'
+Analyzing Verilog file 'C:\Code\FPGA_comptaiton\fpga_project\src\triple_speed_ethernet_mac\triple_speed_ethernet_mac.v'
+Analyzing Verilog file 'C:\Code\FPGA_comptaiton\fpga_project\src\my_eth.v'
+ERROR (EX3863) : Syntax error near '='("C:\Code\FPGA_comptaiton\fpga_project\src\my_eth.v":145)
+ERROR (EX3863) : Syntax error near '='("C:\Code\FPGA_comptaiton\fpga_project\src\my_eth.v":147)
+ERROR (EX3863) : Syntax error near '='("C:\Code\FPGA_comptaiton\fpga_project\src\my_eth.v":149)
+ERROR (EX3863) : Syntax error near '='("C:\Code\FPGA_comptaiton\fpga_project\src\my_eth.v":150)
+ERROR (EX3863) : Syntax error near '='("C:\Code\FPGA_comptaiton\fpga_project\src\my_eth.v":152)
+ERROR (EX3863) : Syntax error near '='("C:\Code\FPGA_comptaiton\fpga_project\src\my_eth.v":153)
+ERROR (EX3863) : Syntax error near '='("C:\Code\FPGA_comptaiton\fpga_project\src\my_eth.v":155)
+ERROR (EX3863) : Syntax error near '='("C:\Code\FPGA_comptaiton\fpga_project\src\my_eth.v":156)
+ERROR (EX3863) : Syntax error near '='("C:\Code\FPGA_comptaiton\fpga_project\src\my_eth.v":158)
+ERROR (EX3863) : Syntax error near '='("C:\Code\FPGA_comptaiton\fpga_project\src\my_eth.v":160)
+ERROR (EX3863) : Syntax error near '='("C:\Code\FPGA_comptaiton\fpga_project\src\my_eth.v":162)
+ERROR (EX3863) : Syntax error near '='("C:\Code\FPGA_comptaiton\fpga_project\src\my_eth.v":163)
+ERROR (EX3863) : Syntax error near '='("C:\Code\FPGA_comptaiton\fpga_project\src\my_eth.v":165)
+ERROR (EX3863) : Syntax error near '='("C:\Code\FPGA_comptaiton\fpga_project\src\my_eth.v":166)
+ERROR (EX3863) : Syntax error near '='("C:\Code\FPGA_comptaiton\fpga_project\src\my_eth.v":167)
+ERROR (EX3863) : Syntax error near '='("C:\Code\FPGA_comptaiton\fpga_project\src\my_eth.v":168)
+ERROR (EX3863) : Syntax error near '='("C:\Code\FPGA_comptaiton\fpga_project\src\my_eth.v":170)
+ERROR (EX3863) : Syntax error near '='("C:\Code\FPGA_comptaiton\fpga_project\src\my_eth.v":171)
+ERROR (EX3863) : Syntax error near '='("C:\Code\FPGA_comptaiton\fpga_project\src\my_eth.v":172)
+Sorry, too many errors..
+GowinSynthesis finish

@@ -1,0 +1,63 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac_top.v'
+Analyzing included file 'C:\Code\FPGA_comptaiton\fpga_project\src\triple_speed_ethernet_mac\temp\Triple_Speed_Ethernet_MAC\triple_speed_mac_define.v'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac_top.v":1)
+Back to file 'C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac_top.v'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac_top.v":1)
+Analyzing included file 'C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\triple_speed_mac_name.v'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac_top.v":2)
+Back to file 'C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac_top.v'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac_top.v":2)
+Analyzing Verilog file 'C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v'
+Analyzing included file 'C:\Code\FPGA_comptaiton\fpga_project\src\triple_speed_ethernet_mac\temp\Triple_Speed_Ethernet_MAC\triple_speed_mac_define.v'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":2863)
+Back to file 'C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":2863)
+Analyzing included file 'C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\triple_speed_mac_name.v'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":5)
+Back to file 'C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":2863)
+Analyzing included file 'C:\Code\FPGA_comptaiton\fpga_project\src\triple_speed_ethernet_mac\temp\Triple_Speed_Ethernet_MAC\triple_speed_mac_param.v'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":7)
+Back to file 'C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":2863)
+Analyzing included file 'C:\Code\FPGA_comptaiton\fpga_project\src\triple_speed_ethernet_mac\temp\Triple_Speed_Ethernet_MAC\triple_speed_mac_param.v'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":1)
+Back to file 'C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":2863)
+Analyzing included file 'C:\Code\FPGA_comptaiton\fpga_project\src\triple_speed_ethernet_mac\temp\Triple_Speed_Ethernet_MAC\triple_speed_mac_param.v'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":1)
+Back to file 'C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":2863)
+Analyzing included file 'C:\Code\FPGA_comptaiton\fpga_project\src\triple_speed_ethernet_mac\temp\Triple_Speed_Ethernet_MAC\triple_speed_mac_param.v'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":1)
+Back to file 'C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":2863)
+Analyzing included file 'C:\Code\FPGA_comptaiton\fpga_project\src\triple_speed_ethernet_mac\temp\Triple_Speed_Ethernet_MAC\triple_speed_mac_param.v'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":1)
+Back to file 'C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":2863)
+Compiling module 'Triple_Speed_Ethernet_MAC_Top'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac_top.v":4)
+Compiling module '**'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":0)
+Compiling module '**'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":0)
+Compiling module '**'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":0)
+Compiling module '**'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":0)
+Compiling module '**'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":0)
+Compiling module '**'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":0)
+Compiling module '**'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":0)
+Compiling module '**'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":0)
+Compiling module '**'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":0)
+Compiling module '**'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":0)
+Compiling module '**'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":0)
+Compiling module '**'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":0)
+Compiling module '**'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":0)
+WARN  (EX3791) : Expression size ** truncated to fit in target size **("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":0)
+Compiling module '**'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":0)
+Compiling module '**'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":0)
+WARN  (EX3827) : Full_case directive is effective : might cause synthesis - simulation differences("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":0)
+Compiling module '**'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":0)
+WARN  (EX3670) : Actual bit length ** differs from formal bit length ** for port '**'("C:\Application\GoWin\Gowin_V1.9.7Beta\IDE\ipcore\TSE_MAC\data\eth_mac.v":0)
+NOTE  (EX0101) : Current top module is "Triple_Speed_Ethernet_MAC_Top"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "C:\Code\FPGA_comptaiton\fpga_project\src\triple_speed_ethernet_mac\temp\Triple_Speed_Ethernet_MAC\triple_speed_ethernet_mac.vg" completed
+Generate template file "C:\Code\FPGA_comptaiton\fpga_project\src\triple_speed_ethernet_mac\temp\Triple_Speed_Ethernet_MAC\triple_speed_ethernet_mac_tmp.v" completed
+[100%] Generate report file "C:\Code\FPGA_comptaiton\fpga_project\src\triple_speed_ethernet_mac\temp\Triple_Speed_Ethernet_MAC\triple_speed_ethernet_mac_syn.rpt.html" completed
+GowinSynthesis finish

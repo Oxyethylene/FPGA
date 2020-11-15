@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW2A-18" package="PBGA484" speed="8" partNumber="GW2A-LV18PG484C8/I7"/>
+    <FileList>
+        <File path="C:/Application/GoWin/Gowin_V1.9.7Beta/IDE/ipcore/TSE_MAC/data/eth_mac_top.v" type="verilog"/>
+        <File path="C:/Application/GoWin/Gowin_V1.9.7Beta/IDE/ipcore/TSE_MAC/data/eth_mac.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="1"/>
+        <Option type="dsp_balance" value="1"/>
+        <Option type="include_path" value="C:/Application/GoWin/Gowin_V1.9.7Beta/IDE/ipcore/TSE_MAC/data"/>
+        <Option type="include_path" value="C:/Code/FPGA_comptaiton/fpga_project/src/triple_speed_ethernet_mac/temp/Triple_Speed_Ethernet_MAC"/>
+        <Option type="output_file" value="triple_speed_ethernet_mac.vg"/>
+        <Option type="output_template" value="triple_speed_ethernet_mac_tmp.v"/>
+        <Option type="ram_balance" value="1"/>
+        <Option type="ram_rw_check" value="1"/>
+    </OptionList>
+</Project>
